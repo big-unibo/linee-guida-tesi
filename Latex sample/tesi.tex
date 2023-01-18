@@ -1,0 +1,66 @@
+\documentclass[12pt,a4paper,twoside,openright]{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{caption} 
+\usepackage{float}
+\usepackage{subfigure}
+\usepackage{fancyvrb}
+\usepackage[]{todonotes} % disable 
+\usepackage{epigraph}
+\usepackage{ifthen}
+\usepackage{multicol}
+\usepackage{amsmath,amsfonts,amssymb,amsthm}
+\usepackage{cleveref}
+\Crefname{lstlisting}{Listing}{Listings}
+\usepackage{fancyhdr}
+\usepackage{deistesi}
+\usepackage[yyyymmdd,hhmmss]{datetime}
+\usepackage{lipsum}
+\titolo{Title}
+\laureando{Me Medisimo}
+\annoaccademico{2015--2016}
+\scuola{Scuola di Ingegneria e Architettura}
+\facolta{Ingegneria e Scienze Informatiche}
+\corsodilaurea{Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche}
+\corso{???}
+\relatore{???}
+\corelatore{Dott.}{???}
+\corelatoreb{Dott.}{???}
+\parolechiave{???}{???}
+\dedica{???}
+\@sessione{III}
+
+
+\begin{document}
+
+\sloppy
+\frontmatter
+\maketitle
+\section*{Acknowledgements}%
+\lipsum[1]
+
+\tableofcontents
+\cleardoublepage
+\makeatletter\@openrightfalse
+\chapter*{Sommario}%
+\addcontentsline{toc}{chapter}{Abstract}
+
+\@openrighttrue\makeatother 
+\mainmatter
+\backmatter
+\cleardoublepage
+\phantomsection
+%The \phantomsection command is nessesary for hyperref to jump to the correct 
+%page, in other words it puts a hyper marker on the page. For example a starred 
+%section or chapter added to the TOC would normally refer to the wrong place 
+%without \phantomsection
+%http://tex.stackexchange.com/questions/44088/when-do-i-need-to-invoke-phantomsection
+\addcontentsline{toc}{chapter}{Bibliography}%
+\bibliographystyle{unsrt}%
+\bibliography{refs}%
+\end{document}
