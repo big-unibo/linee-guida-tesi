@@ -37,8 +37,8 @@
 1. Citazioni e copia/incolla
     - Non citare Wikipedia (su https://scholar.google.it/ esiste un oceano di letteratura)
         - Se necessario, sfruttare Wikipedia per trovare le citazioni a paper/libri
-    - Non copiare testi troppo lunghi, è meglio riassumerli ed elaborarli
-    - Non copiare traduzioni troppo lunghe, è meglio riassumerle ed elaborarle
+    - **Non copiare** testi lunghi, è meglio riassumerli ed elaborarli
+    - **Non copiare** traduzioni lunghe, è meglio riassumerle ed elaborarle
     - Esplicitare la parte di testo copiata inserendola tra virgolette e aggiungi la citazione finale
         - Esempio: "Aggiungere inglesismi random non improva le vostre skills" [[Questa è una cit]](http://www.lercio.it/ricerca-aggiungere-inglesismi-random-non-improva-le-vostre-skills/)
     - La citazione precede il `.`: Testo citato [citazione]. (e non: Testo citato. [citazione]
