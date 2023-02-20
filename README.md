@@ -7,7 +7,7 @@
         - Mettere il capitolo "nel cassetto" 2-3 giorni e rileggerlo
 1. Contenuti
     - La tesi non è un libro didattico: scrivere **solo** i contenuti funzionali all'attività di tesi.
-        - Esempio: se la tesi si colloca in ambito BI/OLAP e l'implementazione si basa su ROLAP, va bene citare ROLAP, MOLAP, e HOLAP ma è bene approfondire solo ROLAP (dato che è funzionale alla tesi, gli altri due no). E' inutile e sbagliato copia-incollare capitoli di libri di testo come "Data Warehouse. Teoria e pratica della progettazione"
+        - Esempio: se la tesi si colloca in ambito BI/OLAP e l'implementazione si basa su ROLAP, va bene citare anche MOLAP, e HOLAP ma è bene approfondire solo ROLAP. E' inutile e sbagliato copia-incollare capitoli di libri di testo come "Data Warehouse. Teoria e pratica della progettazione"
 1. Linguaggio
     - Evitare sempre commenti non oggettivi/superficiali/informali (o sono supportati da citazioni o non si mettono). Ad esempio: banale, semplice, facile, difficile, molto, troppo, poco, impossibile
     - Concisione: Non scrivere frasi più lunghe di *due* righe
