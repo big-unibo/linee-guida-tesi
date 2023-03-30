@@ -1,7 +1,8 @@
 # Linee guida tesi
 
 1. Consegna dei capitoli
-    - Consegnare ogni capitolo una sola volta, uno per volta
+    - Consegnare ogni capitolo una sola volta.
+    - Non è compito del relatore verificare lo stato della scrittura, lo studente invia i contenuti quando sono pronti (i.e., quando, secondo lo studente, i contenuti sono **finalizzati**)
     - Prima della consegna
         - **Fare un controllo della grammatica** ed eventuali errori di battitura (per tesi in inglese Grammarly è di grande aiuto)
         - Mettere il capitolo "nel cassetto" 2-3 giorni e rileggerlo
